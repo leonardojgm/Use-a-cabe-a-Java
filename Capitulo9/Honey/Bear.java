@@ -1,0 +1,5 @@
+class Bear {
+
+	Honey hunny ;
+
+}

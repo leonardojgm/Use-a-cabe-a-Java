@@ -1,0 +1,5 @@
+class Kit {
+
+	Honey kh ;
+
+}

@@ -1,0 +1,5 @@
+class Bees {
+
+	Honey [] beeHa;
+
+}

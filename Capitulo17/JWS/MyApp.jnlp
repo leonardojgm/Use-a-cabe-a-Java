@@ -1,0 +1,23 @@
+<?xml version="1.0" econding="utf-8"?>
+
+<jnlp spec="0.2 1.0" 
+	codebase = "http://127.0.0.1/~kathy" 
+	href ="MyApp.jnlp">
+
+	<information>
+		<title>Kathy App</title>
+		<vendor>Wickedly smart</vendor>
+		<homepage href="index.html"/>
+		<description>Head First WebStart demo</description>
+		<icon href="kathys.gif"/>
+		<offline-allowed/>
+	</information>
+
+	<resources>
+		<j2se version="1.3+"/>
+		<jar href="MyApp.jar"/>
+	</resources>
+
+	<application-desc main-class="HelloWebStart"/>
+
+</jnlp>

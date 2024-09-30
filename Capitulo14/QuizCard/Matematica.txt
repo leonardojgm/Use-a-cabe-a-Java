@@ -1,0 +1,4 @@
+Quanto é 2 + 2 ?/4
+Quanto é 20 + 22 ?/42
+Quanto é 1 - 1 ?/0
+Quanto é 15 em algarismos romanos ?/XV
